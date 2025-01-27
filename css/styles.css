@@ -1129,7 +1129,7 @@ a {
     text-align: start;
     flex-wrap: wrap;
     align-items: baseline;
-    justify-content: center;
+    padding-left: 108px;
 }
 
 .social-text-footer {
